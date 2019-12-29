@@ -1,1 +1,1 @@
-** This simple project implemenmts text to speech in c++.
+ This simple project implemenmts text to speech in c++.
